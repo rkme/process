@@ -9,12 +9,18 @@ Enriches RAW tweet data stored in local directory. Simply copies the raw data an
 
 Currently enriched means: Added useful/calculated metrics about location, location type, admin info, local time, etc. (12/7/16)
 
-download.py - script used to download the brazil blobs to our bra directory. Can be edited to download whatever you want from a 
+### download.py
+
+Script used to download the brazil blobs to our bra directory. Can be edited to download whatever you want from a 
 given blob to a directory
 
-extractTweets.py - Deprecated script used to extract country-specific tweets from quadrant files. Useful, but not used anymore.
+### extractTweets.py
 
-probe.py - Simple script to print out blob information from the zika9372 account. Useful because it holds onto the account key 
+Deprecated script used to extract country-specific tweets from quadrant files. Useful, but not used anymore.
+
+### probe.py
+
+Simple script to print out blob information from the zika9372 account. Useful because it holds onto the account key 
 for us. 
 
 README.md - Super useful informative file. Slightly biased opinion.
