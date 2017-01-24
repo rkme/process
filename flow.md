@@ -75,3 +75,6 @@ each user's ID so it does not match back to any individual.
 The above command will create a redis database of usernames matched to a list
 of location-timestamp pairs and a DOK sparse matrix of admin movement over
 time.
+
+Notes: Add structure: Adding keywords and actual commands as well as adding actual sources to methods and reasoning.
+Bullet points: use steps and create a road map for usage.
